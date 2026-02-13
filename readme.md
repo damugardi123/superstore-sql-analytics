@@ -1,17 +1,17 @@
-Project Overview
+## Project Overview
   Sales & customer analytics using PostgreSQL on Superstore dataset.
 
-Objectives
+## Objectives
 - audit dataset
 - compute KPIs
 - analyze profitability
 - identify revenue drivers
 - segment customers
 
-Tools
+## Tools
 - PostgreSQL, pgAdmin, SQL window functions
 
-Skills Demonstrated
+## Skills Demonstrated
 - joins & aggregation
 - CTEs
 - window functions
@@ -20,7 +20,8 @@ Skills Demonstrated
 - CLV modeling
 - behavioral metrics
 
-Dataset: Superstore sample dataset (public)
+## Dataset 
+- Superstore sample dataset (public)
 
-Key Insights:
-(link insights file) or read business_insights.md
+## Key Insights:
+Read insight_summary.md
