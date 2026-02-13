@@ -248,13 +248,3 @@ dashboard layer
 Do not memorize answers. Practice:
 
 Problem → SQL logic → why → business meaning
-
-
-If you want next, I can generate:
-
-✅ Mock interview based only on your project
-✅ 30-minute rapid-fire round
-✅ SQL whiteboard exercises derived from your queries
-✅ Behavioral + technical blended interview script
-
-Say: run mock interview and we start.
